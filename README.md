@@ -1,2 +1,2 @@
 # docker-mariadb
-Image packaging for MariaDB 
+Image packaging for MariaDB.
